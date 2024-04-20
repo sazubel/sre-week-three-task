@@ -1,4 +1,4 @@
-<h1>Proposal for the implementation of a ticket system/h1>
+<h1>Proposal for the implementation of a ticket system</h1>
 
 1. Review the current state of the ticket system and verify which tasks are toils and which are not.
 
